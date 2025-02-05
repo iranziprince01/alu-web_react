@@ -29,4 +29,5 @@ function Footer() {
     );
 }
 
+// footer exprt
 export default Footer;
